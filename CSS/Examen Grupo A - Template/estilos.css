@@ -1,0 +1,48 @@
+*
+fondo1
+{
+
+}
+logo1
+{
+background-position: top;
+position: relative;
+background: repeat 1px;
+border: 100px;
+}
+
+lista1
+{
+    font-kerning: var(repeat);
+content: icon;
+}
+
+logo2
+{
+
+}
+logo3
+{
+
+}
+logo4
+{
+
+}
+logo5
+{
+background-position-y: bottom ;
+}
+lista2
+{
+
+position:sticky;
+}
+mark1
+{
+
+}
+mark2
+{
+background-position-x: bottom;    
+}
